@@ -59,8 +59,8 @@ sections:
           date_start: '2016-01-01'
           date_end: '2020-12-31'
           description: Taught electronic engineering and researched semiconductor physics.
-    design:
-      columns: '2'
+      design:
+        columns: '2'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
@@ -98,7 +98,7 @@ sections:
           organization_url: https://www.datacamp.com
           title: 'Object-Oriented Programming in R'
           url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    design:
+      design:
         columns: '2'
   - block: collection
     id: posts
