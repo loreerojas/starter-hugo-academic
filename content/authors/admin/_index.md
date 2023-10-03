@@ -57,9 +57,6 @@ social:
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?user=UFKOgNAAAAAJ&hl=es&oi=ao
-  # icon: github
-  # icon_pack: fab
-  # link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
     link: https://co.linkedin.com/in/lorena-rojas
@@ -77,5 +74,8 @@ email: 'rojas-ana@javeriana.edu.co'
 highlight_name: true
 ---
 
-Ana Lorena Rojas es una gran bibliotecóloga de la Pontificia Universidad Javeriana de Bogotá. 
+Ana Lorena Rojas es una gran bibliotecóloga de la Pontificia Universidad Javeriana de Bogotá. Con intereses en:
+  - Gestión de datos e información académica
+  - Bibliometría
+  - Servicios centrados en el usuario
 {style="text-align: justify;"}
