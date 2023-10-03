@@ -1,4 +1,10 @@
 ---
+_build:
+  list: false
+  render: false
+title: Example Project
+---
+---
 title: Example Project
 summary: An example of using the in-built project page.
 tags:
