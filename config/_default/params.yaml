@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
+  theme_day: strawberry
+  theme_night: strawberry
   font: minimal
   font_size: L
 
@@ -18,8 +18,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'Página web de Lorena Rojas, dataviz, bibliometria, librarian'
+    twitter: 'loreerojas'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
