@@ -1,4 +1,11 @@
 ---
+_build:
+  render: never
+cascade:
+  _build:
+    render: never
+    list: always
+---
 title: Recent & Upcoming Talks
 cms_exclude: true
 
