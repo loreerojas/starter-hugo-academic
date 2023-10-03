@@ -97,9 +97,9 @@ sections:
           organization: DataCamp
           organization_url: https://www.datacamp.com
           title: 'Object-Oriented Programming in R'
-          url: ''
+          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     design:
-      columns: '2'
+        columns: '2'
     - block: collection
     content:
       title: Recent Publications
