@@ -1,4 +1,11 @@
 ---
+_build:
+  render: never
+cascade:
+  _build:
+    render: never
+    list: always
+---
 title: External Project
 summary: An example of linking directly to an external project website using `external_link`.
 tags:
