@@ -8,8 +8,8 @@
 appearance:
   theme_day: strawberry
   theme_night: strawberry
-  font: rose
-  font_size: L
+  font: minimal
+  font_size: M
 
 # SEO
 
