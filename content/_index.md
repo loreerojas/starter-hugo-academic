@@ -7,12 +7,12 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Biography
+      title: Sobre mí...
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: features
     content:
-      title: Skills
+      title: Habilidades
       items:
         - name: R
           description: 90%
