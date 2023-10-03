@@ -98,7 +98,7 @@ sections:
           title: 'Object-Oriented Programming in R'
           url: ''
     design:
-      columns: '2'
+      columns: '0'
   - block: collection
     id: posts
     content:
