@@ -1,4 +1,12 @@
 ---
+_build:
+  render: never
+cascade:
+  _build:
+    render: never
+    list: always
+---
+---
 title: Posts
 cms_exclude: true
 
