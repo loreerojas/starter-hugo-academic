@@ -10,7 +10,7 @@ baseURL: 'https://api.netlify.com/api/v1/badges/40a8d93f-ab5a-4d9f-98ee-ca262e48
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: es
+defaultContentLanguage: en
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
