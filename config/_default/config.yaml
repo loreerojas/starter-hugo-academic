@@ -5,6 +5,8 @@
 
 title: Lorena Rojas # Website name
 baseURL: 'https://api.netlify.com/api/v1/badges/40a8d93f-ab5a-4d9f-98ee-ca262e48c652/deploy-status' # Website URL
+icon: chart-line
+icon_pack: fas
 
 ############################
 ## LANGUAGE
