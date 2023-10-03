@@ -14,16 +14,16 @@ sections:
     content:
       title: Habilidades
       items:
-        - name: R
-          description: 90%
+        - name: Análisis de datos
+          description: Apoyo a proyectos de investigación y revisiones sistemáticas de literatura en todo el ciclo de gestión de datos, a través de Excel y Vantage Point.
           icon: r-project
           icon_pack: fab
-        - name: Statistics
-          description: 100%
+        - name: Fundamentos de gestión de datos de investigación
+          description: Realizando cursos con la Research Data Management Librarian Academy (RDMLA) y sobre Introducción a la revisión sistemática de la literatura ofrecido por la OMS.
           icon: chart-line
           icon_pack: fas
-        - name: Photography
-          description: 10%
+        - name: Visualización de datos
+          description: Uso de herramientas como Gephi, Flourish Power BI, Excel, VosViewer y Vantage Point
           icon: camera-retro
           icon_pack: fas
   - block: experience
