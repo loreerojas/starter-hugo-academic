@@ -7,8 +7,6 @@ main:
   - name: Sobre mi
     url: '#about'
     weight: 10
-    icon: chart-line
-    icon_pack: fas
   - name: Publicaciones
     url: '#featured'
     weight: 50
