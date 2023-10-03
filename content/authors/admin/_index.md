@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Lorena Rojas
+title: Ana Lorena Rojas
 
 # Full name (for SEO)
 first_name: Ana Lorena
@@ -8,7 +8,7 @@ last_name: Rojas Sabogal
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -51,18 +51,18 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/loreerojas
-    label: Follow me on Twitter
+    label: Sigueme en Twitter
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://scholar.google.com/citations?user=UFKOgNAAAAAJ&hl=es&oi=ao
+  # icon: github
+  # icon_pack: fab
+  # link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://co.linkedin.com/in/lorena-rojas
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -71,7 +71,7 @@ social:
     link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'rojas-ana@javeriana.edu.co'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
