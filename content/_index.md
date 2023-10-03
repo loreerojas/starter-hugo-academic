@@ -14,16 +14,16 @@ sections:
     content:
       title: Habilidades
       items:
-        - name: Análisis de datos
-          description: Apoyo a proyectos de investigación y revisiones sistemáticas de literatura en todo el ciclo de gestión de datos, a través de Excel y Vantage Point.
+        - name: Gestión de datos de investigación
+          description: Apoyo a proyectos de investigación y revisiones sistemáticas de literatura en todo el ciclo de gestión de datos, desde la planeación del manejo de los datos, búsqueda y descarga de información de fuentes bibliográficas, normalización y limpieza de datos y creación de matrices para en análisis y extracción de datos a través de Excel y Vantage Point. Promoviendo los principios FAIR y el uso de metodologías ágiles de investigación.
           icon: r-project
           icon_pack: fab
-        - name: Fundamentos de gestión de datos de investigación
-          description: Realizando cursos con la Research Data Management Librarian Academy (RDMLA) y sobre Introducción a la revisión sistemática de la literatura ofrecido por la OMS.
+        - name: Análisis y visualización de datos de investigación
+          description: Acompañamiento a procesos investigativos desde el conocimiento adquirido en cursos con la Research Data Management Librarian Academy (RDMLA) e Introducción a la revisión sistemática de la literatura ofrecido por la OMS. Uso de herramientas libres como Gephi, Flourish, VosViewer.
           icon: chart-line
           icon_pack: fas
-        - name: Visualización de datos
-          description: Uso de herramientas como Gephi, Flourish Power BI, Excel, VosViewer y Vantage Point
+        - name: Ciencia abierta y publicación académica
+          description: Diseño y desarrollo de planes de publicación científica orientados a promover el acceso abierto a la información en revistas académicas en open access y aprovechando los acuerdos transformativos de la Universidad y las editoriales. Apoyo a publicación de datos de investigación en repositorios como Mendeley Data.
           icon: camera-retro
           icon_pack: fas
   - block: experience
