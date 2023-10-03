@@ -78,4 +78,7 @@ Ana Lorena Rojas es una gran bibliotecóloga de la Pontificia Universidad Javeri
   - Gestión de datos e información académica
   - Bibliometría
   - Servicios centrados en el usuario
+Cuenta con experiencia en asesoramiento a usuarios en todo lo relacionado a búsquedas avanzadas de información para procesos de gestión de datos.
+
+Conoce mis habilidades acá:
 {style="text-align: justify;"}
