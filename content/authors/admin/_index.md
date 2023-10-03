@@ -80,5 +80,5 @@ email: ''
 highlight_name: true
 ---
 
-Lorena Rojas es una gran bibliotecóloga de la Pontificia Universidad Javeriana de Bogotá. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Ana Lorena Rojas es una gran bibliotecóloga de la Pontificia Universidad Javeriana de Bogotá. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 {style="text-align: justify;"}
