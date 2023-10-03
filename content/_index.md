@@ -16,8 +16,8 @@ sections:
       items:
         - name: Gestión de datos de investigación
           description: Apoyo a proyectos de investigación y revisiones sistemáticas de literatura en todo el ciclo de gestión de datos, desde la planeación del manejo de los datos, búsqueda y descarga de información de fuentes bibliográficas, normalización y limpieza de datos y creación de matrices para en análisis y extracción de datos a través de Excel y Vantage Point. Promoviendo los principios FAIR y el uso de metodologías ágiles de investigación.
-          icon: magnifying glass chart
-          icon_pack: fab
+          icon: magnifying-glass-chart
+          icon_pack: fas
         - name: Análisis y visualización de datos de investigación
           description: Acompañamiento a procesos investigativos desde el conocimiento adquirido en cursos con la Research Data Management Librarian Academy (RDMLA) e Introducción a la revisión sistemática de la literatura ofrecido por la OMS. Uso de herramientas libres como Gephi, Flourish, VosViewer.
           icon: chart-line
