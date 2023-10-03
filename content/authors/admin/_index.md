@@ -25,24 +25,21 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+intereses:
+  - Gestión de datos e información académica
+  - Bibliometría
+  - Servicios centrados en el usuario
 
 # Education to show in About widget
-education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-
+educación:
+  Estudios:
+    - Título: Profesional en ciencia de la informacion- Bibliotecología
+      institución: Pontificia Universidad Javeriana
+      year: 2015
+    - Título: Esp. Gerencia del servicio
+      institution: Universidad EAN
+      year: 2017
+    
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -53,7 +50,7 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/loreerojas
     label: Follow me on Twitter
     display:
       header: true
@@ -80,5 +77,5 @@ email: ''
 highlight_name: true
 ---
 
-Ana Lorena Rojas es una gran bibliotecóloga de la Pontificia Universidad Javeriana de Bogotá. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Ana Lorena Rojas es una gran bibliotecóloga de la Pontificia Universidad Javeriana de Bogotá. 
 {style="text-align: justify;"}
