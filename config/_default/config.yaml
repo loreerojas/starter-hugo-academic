@@ -3,14 +3,14 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Lorena Rojas Sabogal # Website name
-baseURL: 'https://lorenarojas.netlify.app/' # Website URL
+title: Lorena # Website name
+baseURL: 'https://api.netlify.com/api/v1/badges/40a8d93f-ab5a-4d9f-98ee-ca262e48c652/deploy-status' # Website URL
 
 ############################
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: en
+defaultContentLanguage: es
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
