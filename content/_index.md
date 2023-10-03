@@ -24,7 +24,7 @@ sections:
           icon_pack: fas
         - name: Ciencia abierta y publicación académica
           description: Diseño y desarrollo de planes de publicación científica orientados a promover el acceso abierto a la información en revistas académicas en open access y aprovechando los acuerdos transformativos de la Universidad y las editoriales. Apoyo a publicación de datos de investigación en repositorios como Mendeley Data.
-          icon: camera-retro
+          icon: person-chalkboard
           icon_pack: fas
   - block: experience
     content:
