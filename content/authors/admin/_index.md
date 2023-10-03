@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Profesional en ciencia de la información - bibliotecóloga. Especialista en gerencia del servicio
+role: Bibliotecóloga Especializada #EnTODOamaryServir
 
 # Organizations/Affiliations to show in About widget
 organizations:
