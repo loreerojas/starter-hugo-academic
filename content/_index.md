@@ -73,12 +73,11 @@ sections:
           date_start: '2015-08-01'
           date_end: '2018-07-01'
           description: |2-
-               Bibliotecóloga del área de ciencias naturales, biomédicas y rurales, he acompañado procesos de articulación de servicios y recursos, formación y desarrollo de proyectos asociados a la docencia, investigación y servicio. He apoyado procesos relacionados a:
+               Bibliotecóloga encargada de coordinar, planear y organizar el servicio de formación de la biblioteca a partir de talleres y cursos orientados a adquirir habilidades informacionales. Algunos de mis logros más destacables fueron:
 
-              * Planes para la publicación académica en revistas de alto impacto principalmente en acceso abierto y con apoyo de los acuerdos transformativos.
-              * Acompañamiento a procesos de revisiones sistemáticas de literatura y proyectos de investigación para la búsqueda, extracción y análisis de información científica.
-              * Asesoría y formación de usuarios para el conocimiento y fortalecimento de habilidades informacionales.
-              * Diseño y ejecucción del plan de trabajo para la identificación y gestión de los perfiles digitales académicos de los docentes enfocado al posicionamiento y visibilidad de la investigación en el marco de la implementación del CRIS.
+              * Diseño de la oferta formativa para la comunidad académica orientada a la búsqueda de información, normas de citación, uso de bases de datos y gestores de referencia, herramientas de medición del impacto de la ciencia.
+              * Asesoría y capacitación de usuarios, tanto presencial como virtual, como facilitadora principal para todas las facultades de la Universidad.
+              * Diseño y publicación del Manual de citación de normas APA, reconocido por profesionales nacionales e internacionales como referente.
     design:
        columns: '2'
   - block: accomplishments
