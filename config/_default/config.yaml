@@ -12,7 +12,7 @@ icon_pack: fas
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: es
+defaultContentLanguage: en
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
