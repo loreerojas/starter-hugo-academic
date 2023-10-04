@@ -45,10 +45,9 @@ sections:
           date_start: '2021-07-01'
           date_end: ''
           description: |2-
-              Responsibilities include:
-              * Analysing
-              * Modelling
-              * Deploying
+           Bibliotecóloga enlace con las facultades de Estudios ambientales y rurales, Ciencias y Filosofía, donde se ha acompañado la articulación de los procesos de docencia, investigación y servicio con los miembros             de la comunidad javeriana a través de procesos formativos y desarrollo de proyectos asociados. Profesional responsable, creativa, apasionada por el servicio y la calidad, además de tener habilidades para el              trabajo bajo presión y manejo del tiempo.
+            Se resalta el apoyo a investigación asociado a: publicación académica en revistas de alta calidad a través de revisión de indicadores bibliométricos y con enfoque a acceso abierto y aprovechamiento de                    acuerdos transformativos. Además, ha gestionado la creación de perfiles digitales académicos, diseño y desarrollo de propuestas asociadas a procesos de revisiones sistemáticas de literatura, análisis y                   visualización de información académica y vigilancia científica.
+            También, ha gestionado proyectos internos asociados a evaluación y diseño de servicios, cultura innovadora en la biblioteca y estadísticas de la área de trabajo para toma de decisiones. Ha liderado la                     articulación de la biblioteca a proyectos con otras unidades de la universidad como la implementación del sistema CRIS desde el recurso PURE, normalización e identificación de los perfiles digitales de los             investigadores y proyectos asociados a responsabilidad social empresarial desde la Biblioteca.
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
