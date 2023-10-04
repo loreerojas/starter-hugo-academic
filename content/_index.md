@@ -28,7 +28,7 @@ sections:
           icon_pack: fas
   - block: experience
     content:
-      title: Experience
+      title: Experiencia laboral
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -38,10 +38,11 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
+        - title: Profesional en servicios especializados
+          company: Pontificia Universidad Javeriana
+          company_url: 'https://www.javeriana.edu.co/biblos'
+          icon: magnifying-glass-chart
+          icon_pack: fas
           location: California
           date_start: '2021-01-01'
           date_end: ''
