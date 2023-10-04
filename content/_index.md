@@ -60,6 +60,7 @@ sections:
           date_end: ''
           description: |2-
                Taught electronic engineering and researched semiconductor physics.
+                Responsable
     design:
        columns: '2'
   - block: accomplishments
