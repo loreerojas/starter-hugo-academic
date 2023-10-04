@@ -12,7 +12,7 @@ sections:
       username: admin
   - block: features
     content:
-      title: Habilidades
+      title: Conocimientos e intereses
       items:
         - name: Gestión de datos de investigación
           description: Apoyo a proyectos de investigación y revisiones sistemáticas de literatura en todo el ciclo de gestión de datos, desde la planeación del manejo de los datos, búsqueda y descarga de información de fuentes bibliográficas, normalización y limpieza de datos y creación de matrices para en análisis y extracción de datos a través de Excel y Vantage Point. Promoviendo los principios FAIR y el uso de metodologías ágiles de investigación.
@@ -55,14 +55,15 @@ sections:
           company: Pontificia Universidad Javeriana
           company_url: 'https://www.javeriana.edu.co/biblos'
           company_logo: Logo_Javeriana_Actualizado (1)
-          location: bogotá, Colombia
+          location: Bogotá, Colombia
           date_start: '2018-07-01'
           date_end: ''
           description: |2-
                Bibliotecóloga del área de ciencias naturales, biomédicas y rurales, he acompañado procesos de articulación de servicios y recursos, formación y desarrollo de proyectos asociados a la docencia, investigación y servicio. He apoyado procesos relacionados a:
 
               * Planes para la publicación académica en revistas de alto impacto principalmente en acceso abierto y con apoyo de los acuerdos transformativos.
-              * Procesos de revisiones sistemáticas de literatura para la búsqueda, extracción y análisis de información científica.
+              * Acompañamiento a procesos de revisiones sistemáticas de literatura y proyectos de investigación para la búsqueda, extracción y análisis de información científica.
+              * Asesoría y formación de usuarios para el conocimiento y fortalecimento de habilidades informacionales.
               * Diseño y ejecucción del plan de trabajo para la identificación y gestión de los perfiles digitales académicos de los docentes enfocado al posicionamiento y visibilidad de la investigación en el marco de la implementación del CRIS.
     design:
        columns: '2'
