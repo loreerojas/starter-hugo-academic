@@ -37,29 +37,39 @@ sections:
       #   Required fields are `title`, `company`, and `date_start`.
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
+            items:
+        - title: CEO
+          company: GenCoin
+          company_url: ''
+          company_logo: org-gc
+          location: California
+          date_start: '2021-01-01'
+          date_end: ''
+          description: |2-
+              Responsibilities include:
+
+              * Analysing
+              * Modelling
+              * Deploying
         - title: Profesional en servicios especializados
           company: Pontificia Universidad Javeriana
           company_url: 'https://www.javeriana.edu.co/biblos'
           company_logo: Logo_Javeriana_Actualizado (1)
-          date_start: '2021-07-01'
-          date_end: ''
-          description: Bibliotecóloga enlace con las facultades de Estudios ambientales y rurales, Ciencias y Filosofía, donde se ha acompañado la articulación de los procesos de docencia, investigación y servicio con 
-        - title: Profesional en servicios especializados
-          company: Pontificia Universidad Javeriana
-          company_url: 'https://www.javeriana.edu.co/biblos'
-          company_logo: Logo_Javeriana_Actualizado (1)
+          location: bogotá, Colombia
           date_start: '2018-07-01'
           date_end: ''
-          description: Bibliotecologa enlace en las áreas de ciencias naturales, ecología, medio ambiente y estudios rurales, que acompaña los procesos de articulación de los procesos de docencia, investigación y servicio.
-     - title: Profesional en servicios especializados
-          company: Pontificia Universidad Javeriana
-          company_url: 'https://www.javeriana.edu.co/biblos'
-          company_logo: Logo_Javeriana_Actualizado (1)
-          date_start: '2018-07-01'
-          date_end: ''
-          description: LORE
+          description: |2-
+               Taught electronic engineering and researched semiconductor physics.
     design:
+    - title: Professor of Semiconductor Physics
+          company: University X
+          company_url: ''
+          company_logo: org-x
+          location: California
+          date_start: '2016-01-01'
+          date_end: '2020-12-31'
+          description: Taught electronic engineering and researched semiconductor physics.
+   design:
       columns: '2'
   - block: accomplishments
     content:
