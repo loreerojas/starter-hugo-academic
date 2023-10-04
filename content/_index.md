@@ -68,7 +68,7 @@ sections:
         - title: Profesional en referencia
           company: Universidad Externado de Colombia
           company_url: 'https://www.javeriana.edu.co/biblos'
-          company_logo: logo-uec.svg
+          company_logo: logo-uec
           location: Bogotá, Colombia
           date_start: '2015-08-01'
           date_end: '2018-07-01'
