@@ -38,19 +38,6 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
         - title: Profesional en servicios especializados
           company: Pontificia Universidad Javeriana
           company_url: 'https://www.javeriana.edu.co/biblos'
@@ -78,6 +65,19 @@ sections:
               * Diseño de la oferta formativa para la comunidad académica orientada a la búsqueda de información, normas de citación, uso de bases de datos y gestores de referencia, herramientas de medición del impacto de la ciencia.
               * Asesoría y capacitación de usuarios, tanto presencial como virtual, como facilitadora principal para todas las facultades de la Universidad.
               * Diseño y publicación del Manual de citación de normas APA, reconocido por profesionales nacionales e internacionales como referente.
+        - title: CEO
+          company: GenCoin
+          company_url: ''
+          company_logo: org-gc
+          location: California
+          date_start: '2021-01-01'
+          date_end: ''
+          description: |2-
+              Responsibilities include:
+
+              * Analysing
+              * Modelling
+              * Deploying
     design:
        columns: '2'
   - block: accomplishments
