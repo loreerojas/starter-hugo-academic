@@ -65,13 +65,13 @@ sections:
               * Acompañamiento a procesos de revisiones sistemáticas de literatura y proyectos de investigación para la búsqueda, extracción y análisis de información científica.
               * Asesoría y formación de usuarios para el conocimiento y fortalecimento de habilidades informacionales.
               * Diseño y ejecucción del plan de trabajo para la identificación y gestión de los perfiles digitales académicos de los docentes enfocado al posicionamiento y visibilidad de la investigación en el marco de la implementación del CRIS.  
-        - title: Profesional en servicios especializados
-          company: Pontificia Universidad Javeriana
+        - title: Profesional en referencia
+          company: Universidad Externado de Colombia
           company_url: 'https://www.javeriana.edu.co/biblos'
-          company_logo: Logo_Javeriana_Actualizado (1)
+          company_logo: logo-uec.svg
           location: Bogotá, Colombia
-          date_start: '2018-07-01'
-          date_end: ''
+          date_start: '2015-08-01'
+          date_end: '2018-07-01'
           description: |2-
                Bibliotecóloga del área de ciencias naturales, biomédicas y rurales, he acompañado procesos de articulación de servicios y recursos, formación y desarrollo de proyectos asociados a la docencia, investigación y servicio. He apoyado procesos relacionados a:
 
