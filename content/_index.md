@@ -59,11 +59,11 @@ sections:
           date_start: '2018-07-01'
           date_end: ''
           description: |2-
-               Bibliotecóloga del área de ciencias naturales, biomédicas y rurales, he acompañado procesos de articulación de servicios y recursos, formación y desarrollo de proyectos asociados a la docencia, investigación y servicio.
+               Bibliotecóloga del área de ciencias naturales, biomédicas y rurales, he acompañado procesos de articulación de servicios y recursos, formación y desarrollo de proyectos asociados a la docencia, investigación y servicio. He apoyado procesos relacionados a:
 
-              * Analysing
-              * Modelling
-              * Deploying
+              * Planes para la publicación académica en revistas de alto impacto principalmente en acceso abierto y con apoyo de los acuerdos transformativos.
+              * Procesos de revisiones sistemáticas de literatura para la búsqueda, extracción y análisis de información científica.
+              * Diseño y ejecucción del plan de trabajo para la identificación y gestión de los perfiles digitales académicos de los docentes enfocado al posicionamiento y visibilidad de la investigación en el marco de la implementación del CRIS.
     design:
        columns: '2'
   - block: accomplishments
