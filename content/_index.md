@@ -59,8 +59,11 @@ sections:
           date_start: '2018-07-01'
           date_end: ''
           description: |2-
-               Taught electronic engineering and researched semiconductor physics.
-                Responsable
+               Bibliotecóloga del área de ciencias naturales, biomédicas y rurales, he acompañado procesos de articulación de servicios y recursos, formación y desarrollo de proyectos asociados a la docencia, investigación y servicio.
+
+              * Analysing
+              * Modelling
+              * Deploying
     design:
        columns: '2'
   - block: accomplishments
