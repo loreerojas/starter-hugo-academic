@@ -41,10 +41,8 @@ sections:
         - title: Profesional en servicios especializados
           company: Pontificia Universidad Javeriana
           company_url: 'https://www.javeriana.edu.co/biblos'
-          icon: magnifying-glass-chart
-          icon_pack: fas
-          location: California
-          date_start: '2021-01-01'
+          company_logo: Logo_Javeriana_Actualizado (1)
+          date_start: '2021-07-01'
           date_end: ''
           description: |2-
               Responsibilities include:
