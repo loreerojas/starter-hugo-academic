@@ -14,7 +14,7 @@ sections:
     content:
       title: Conocimientos e intereses
       items:
-        - name: Gestión de datos de investigación
+        - name: Apoyo a la gestión de información y procesos de investigación
           description: Apoyo a proyectos de investigación y revisiones sistemáticas de literatura en todo el ciclo de gestión de datos, desde la planeación del manejo de los datos, búsqueda y descarga de información de fuentes bibliográficas, normalización y limpieza de datos y creación de matrices para en análisis y extracción de datos a través de Excel y Vantage Point. Promoviendo los principios FAIR y el uso de metodologías ágiles de investigación.
           icon: magnifying-glass-chart
           icon_pack: fas
