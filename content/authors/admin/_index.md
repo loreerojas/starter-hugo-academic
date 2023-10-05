@@ -19,7 +19,7 @@ role: Bibliotecóloga Especializada
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Pontificia Universidad Javeriana
-    url: https://www.stanford.edu/
+    url: https://www.javeriana.edu.co/biblos
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -75,14 +75,17 @@ highlight_name: true
 ---
 
 ¡Hola! Soy Ana Lorena Rojas,  bibliotecóloga de la Pontificia Universidad Javeriana de Bogotá. 
-Mi lema de vida: EnTODOamaryServir ❤️
+Mi lema de vida: En TODO Amar y Servir ❤️
 
-Soy una persona muy curiosa y creativa (sabías que esta página la hice yo sin saber programar!) y tengo interese en temas como:
-  - Gestión de datos e información académica con énfasis en publicación científica
-  - Bibliometría y análisis de datos
-  - Servicios centrados en el usuario 
+Soy una persona muy curiosa y creativa (sabías que esta página la hice yo sin saber programar!) y tengo intereses en temas como:
+  - Apoyo a la gestión de información académica para procesos de investigación.
+  - Manejo de recursos bibliográficos para la búsqueda especializada y extracción de información.
+  - Acompañamiento a revisiones sistemáticas de literatura.
+  - Indicadores de actividad científica y Bibliometría
+  - Análisis de datos y visualización de información científica #DataViz
+  - Diseño de Servicios centrados en el usuario 
     
-Tengo experiencia en asesoramiento a usuarios en todo lo relacionado a búsquedas avanzadas de información para procesos de gestión de datos principalmente para publicar, te ayudo a crear tu plan de gestión de datos, pensar en el análisis de estos para sacar el mayor provecho para tus investigaciones.
+Tengo experiencia en asesoramiento a usuarios en todo lo relacionado a búsquedas avanzadas de información para procesos de gestión de datos principalmente para publicar, te ayudo en todo el ciclo de investigación desde la planeación, análisis y visualización de información académica para sacar de estos para sacar el mayor provecho para tus investigaciones.
 
 👇 Conoce mis habilidades acá: 👇
 {style="text-align: justify;"}
