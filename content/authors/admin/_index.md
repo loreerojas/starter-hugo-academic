@@ -86,7 +86,7 @@ Mi lema de vida: En TODO Amar y Servir ❤️
 
 Soy una persona muy curiosa 🔎 y creativa 🎨 (por ejemplo: ¿sabías que esta página la hice yo sin saber programar?), además soy una líder innata, una persona comunicativa, con grandes relaciones interpersonales, honesta y responsable.
 
-Me considero una #DataLibrarian, me encanta todo lo relacionado a visualización de datos, poder contar historias de nuevas formas, pues une mis dos pasiones: el arte 🎨 y la información💡.
+Me considero una #DataLibrarian📈, me encanta todo lo relacionado a visualización de datos, poder contar historias de nuevas formas, pues une mis dos pasiones: el arte 🎨 y la información💡.
     
 👇 Conoce mis habilidades, otros cursos que he tomado y mis publicaciones acá: 👇
 {style="text-align: justify;"}
