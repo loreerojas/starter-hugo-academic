@@ -25,13 +25,13 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
-intereses:
+interest:
   - Gestión de datos e información académica
   - Bibliometría
   - Servicios centrados en el usuario
 
 # Education to show in About widget
-educación:
+educacion:
   Estudios:
     - Título: Profesional en ciencia de la informacion- Bibliotecología
       institución: Pontificia Universidad Javeriana
