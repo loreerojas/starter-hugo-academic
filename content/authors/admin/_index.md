@@ -25,10 +25,13 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
-interest:
-  - Gestión de datos e información académica
-  - Bibliometría
-  - Servicios centrados en el usuario
+interests:
+  - Apoyo a la gestión de información académica para procesos de investigación.
+  - Manejo de recursos bibliográficos para la búsqueda especializada y extracción de información.
+  - Acompañamiento a revisiones sistemáticas de literatura.
+  - Indicadores de actividad científica y Bibliometría
+  - Análisis de datos y visualización de información científica #DataViz
+  - Diseño de Servicios centrados en el usuario
 
 # Education to show in About widget
 education:
