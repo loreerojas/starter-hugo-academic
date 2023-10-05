@@ -22,8 +22,9 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Revista Desarrollo y Sociedad, *(86)"
-publication_short: 
-abstract: La gestión ambiental, en el marco del desarrollo sostenible, es un reto que tienen todas las instituciones de educación superior (IES). Aunque la Agenda 2030 es un marco de acción global, se convierte en un reto para las IES trasladarla a su contexto local desde la investigación. Para facilitar esta labor, se plantea una propuesta metodológica con el fin de evaluar las capacidades académicas de las IES frente a los ODS. La metodología se desarrolló en cinco fases y fue aplicada en la Pontificia Universidad Javeriana (PUJ) al ODS 3, Salud y bienestar, así como a sus 13 metas. En total se encontraron 1694 trabajos de grado y tesis, principalmente, de las facultades de Ciencias Económicas y Administrativas (CEA) y Enfermería. La presente propuesta metodológica constituye una importante contribución a los ODS, además pueden replicarla otras IES que deseen adoptarla y aportar a la implementación de la Agenda 2030 desde la investigación. Clasificación JEL: I23.
+publication_short: ""
+
+abstract: Nada
 
 # Summary. An optional shortened abstract.
 
