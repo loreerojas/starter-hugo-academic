@@ -125,22 +125,19 @@ sections:
           organization_url: https://www.javeriana.edu.co/biblos
           title: Inteligencia competitiva para la transferencia tecnológica
           url:
+        - certificate_url: 
+          date_end: '2021-07-01'
+          date_start: '2021-03-01'
+          description: Curso introductorio a la herramienta para visualización de datos Microsoft Power BI.
+          organization: Pontificia Universidad Javeriana
+          organization_url: https://www.javeriana.edu.co/
+          title: Microsoft Power BI
+          url:
     design:
       columns: '2'
   - block: collection
-    id: featured
     content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
-  - block: collection
-    content:
-      title: Recent Publications
+      title: Mis publicaciones
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
@@ -155,30 +152,28 @@ sections:
   - block: contact
     id: contact
     content:
-      title: Contact
+      title: ¡Hablemos!
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        Si necesitas que te apoye en tus investigaciones, no dudes en contactarme
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
+      email: infocuradora@gmail.com
+      phone: 57 311 532 92 74 
+      appointment_url: ''
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+        street: 
+        city: 
+        region:
+        postcode: '
+        country: 
+        country_code: 
+      directions: 
+      office_hours:        
       contact_links:
         - icon: twitter
           icon_pack: fab
-          name: DM Me
-          link: 'https://twitter.com/Twitter'
+          name: Sígueme
+          link: 'https://twitter.com/loreerojas'
         - icon: skype
           icon_pack: fab
           name: Skype Me
