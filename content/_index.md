@@ -73,7 +73,7 @@ sections:
           date_start: '2014-04-01'
           date_end: '2015-05-01'
           description: |2-
-              Tuve a cargo el proceso del servicio de referencia especializada además de capacitación y asesoría de usuarios. En mis logros principales se destaca:
+              Tuve a cargo el proceso del servicio de referencia especializada además de capacitación y asesoría de usuarios. Mis logros principales en el cargo fueron:
 
               * Creación y puesta en marcha del servicio de referencia virtual "Pregúntele al bibliotecario" a través de medios como chat, correo, Facebook y teléfono.
               * Divulgación de los servicios que ofrecía la biblioteca, además de la creación de la sección de "La Biblioteca recomienda" con las novedades o materiales destacados de la colección por mes en redes sociales y piezas gráficas.
