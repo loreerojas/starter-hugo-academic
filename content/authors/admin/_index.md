@@ -85,5 +85,5 @@ Soy una persona muy curiosa 🔎 y creativa 🎨 (por ejemplo: ¿sabías que est
 
 Me considero una #DataLibrarian, me encanta todo lo relacionado a visualización de datos pues une mis dos pasiones:  el arte 🎨 y la información💡.
     
-👇 Conoce mis habilidades acá: 👇
+👇 Conoce mis habilidades, otros cursos que he tomado y mis publicaciones acá: 👇
 {style="text-align: justify;"}
