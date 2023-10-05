@@ -77,9 +77,13 @@ email: 'rojas-ana@javeriana.edu.co'
 highlight_name: true
 ---
 
-¡Hola! Soy Ana Lorena Rojas, tu bibliotecóloga de confianza. Mi lema de vida: En TODO Amar y Servir ❤️
+¡Hola! Soy Ana Lorena Rojas, tu bibliotecóloga de confianza. 
 
-Soy una persona muy curiosa y creativa (por ejemplo: ¿sabías que esta página la hice yo sin saber programar?), además me considero una líder innata, honesta y responsable.
+Mi lema de vida: En TODO Amar y Servir ❤️
+
+Soy una persona muy curiosa 🔎 y creativa 🎨 (por ejemplo: ¿sabías que esta página la hice yo sin saber programar?), además me considero una líder innata, honesta y responsable.
+
+Me considero una #DataLibrarian, me encanta todo lo relacionado a visualización de datos pues une mis dos pasiones:  el arte 🎨 y la información💡.
     
 👇 Conoce mis habilidades acá: 👇
 {style="text-align: justify;"}
