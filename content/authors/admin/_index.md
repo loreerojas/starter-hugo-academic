@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ana Lorena Rojas
+title: Ana Lorena Rojas-Sabogsl
 
 # Full name (for SEO)
 first_name: Ana Lorena
