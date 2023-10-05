@@ -105,17 +105,17 @@ sections:
           date_end: '2023-07-01'
           date_start: '2021-03-01'
           description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
+          organization: Elsevier
           organization_url: https://www.elsevier.com/es-es
           title: Scopus Certification Program
           url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          organization: DataCamp
+        - certificate_url: 
+          date_end: '2019-08-21'
+          date_start: '2019-10-01'
+          description: 'Curso introducción a la teoría de grafos con aplicaciones e implementación en el programa GEPHI'
+          organization: Universidad de los Andes
           organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          title: 'Teoría de grafos: análisis de datos y sus aplicaciones'
           url: ''
     design:
       columns: '2'
