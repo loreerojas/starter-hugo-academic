@@ -54,10 +54,10 @@ sections:
               * Diseño y ejecucción del plan de trabajo para la identificación y gestión de los perfiles digitales académicos de los docentes enfocado al posicionamiento y visibilidad de la investigación en el marco de la implementación del CRIS.  
         - title: Profesional en referencia
           company: Universidad Externado de Colombia
-          company_url: 'https://www.javeriana.edu.co/biblos'
+          company_url: 'https://www.uexternado.edu.co/biblioteca'
           company_logo: logo-uec
           location: Bogotá, Colombia
-          date_start: '2015-08-01'
+          date_start: '2015-06-01'
           date_end: '2018-07-01'
           description: |2-
                Bibliotecóloga encargada de coordinar, planear y organizar el servicio de formación de la biblioteca a partir de talleres y cursos orientados a adquirir habilidades informacionales. Algunos de mis logros más destacables fueron:
@@ -65,19 +65,19 @@ sections:
               * Diseño de la oferta formativa para la comunidad académica orientada a la búsqueda de información, normas de citación, uso de bases de datos y gestores de referencia, herramientas de medición del impacto de la ciencia.
               * Asesoría y capacitación de usuarios, tanto presencial como virtual, como facilitadora principal para todas las facultades de la Universidad.
               * Diseño y publicación del Manual de citación de normas APA, reconocido por profesionales nacionales e internacionales como referente.
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+        - title: Auxiliar de Referencia Especializada
+          company: Universidad Externado de Colombia
+          company_url: 'https://www.uexternado.edu.co/biblioteca'
+          company_logo: logo-uec
+          location: Bogotá, Colombia
+          date_start: '2014-04-01'
+          date_end: '2015-05-01'
           description: |2-
-              Responsibilities include:
+              Tuve a cargo el proceso del servicio de referencia especializada además de capacitación y asesoría de usuarios. En mis logros principales se destaca:
 
-              * Analysing
-              * Modelling
-              * Deploying
+              * Creación y puesta en marcha del servicio de referencia virtual "Pregúntele al bibliotecario" a través de medios como chat, correo, Facebook y teléfono.
+              * Divulgación de los servicios que ofrecía la biblioteca, además de la creación de la sección de "La Biblioteca recomienda" con las novedades o materiales destacados de la colección por mes en redes sociales y piezas gráficas.
+              * Atención a los usuarios mediante el servicio de referencia especializada presencial, además de ser responsable de la colección bibliográfica de la sala Fernando Hinestrosa, esfocada en derecho civil.
     design:
        columns: '2'
   - block: accomplishments
