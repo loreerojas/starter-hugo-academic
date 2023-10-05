@@ -93,21 +93,21 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: 
-          date_end: '2010-01-01'
-          date_start: '2015-01-01'
+        - certificate_url: https://badgr.com/public/assertions/sLd2O5KwTHSRvZhnE8Dybg
+          date_end: '2023-09-01'
+          date_start: '2023-10-01'
           description: ''
-          organization: Pontificia Universidad Javeriana
-          organization_url: https://www.javeriana.edu.co/biblos
-          title: Profesional en Ciencia de la Información - Bibliotecóloga
+          organization: The Research Data Management Librarian Academy (RDMLA)
+          organization_url: https://rdmla.github.io/
+          title: Foundations of Research Data Management
           url: ''
-        - certificate_url: 
-          date_end: ''
-          date_start: '2021-01-01'
+        - certificate_url: https://www.credential.net/138a923e-cd70-4d14-b169-644b6ea131ac
+          date_end: '2023-07-01'
+          date_start: '2021-03-01'
           description: Formulated informed blockchain models, hypotheses, and use cases.
           organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
+          organization_url: https://www.elsevier.com/es-es
+          title: Scopus Certification Program
           url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
         - certificate_url: https://www.datacamp.com
           date_end: '2020-12-21'
