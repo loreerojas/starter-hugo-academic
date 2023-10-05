@@ -1,5 +1,5 @@
 ---
-title: "Evaluación de las capacidades académicas de las instituciones de educación superior frente a los Objetivos de Desarrollo Sostenible: una propuesta metodológica"
+- title: "Evaluación de las capacidades académicas de las instituciones de educación superior frente a los Objetivos de Desarrollo Sostenible: una propuesta metodológica"
 authors:
 - admin
 - Andrea Sanabria, Angela Forero, José Castillo
