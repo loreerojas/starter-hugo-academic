@@ -96,7 +96,7 @@ sections:
         - certificate_url: https://badgr.com/public/assertions/sLd2O5KwTHSRvZhnE8Dybg
           date_end: '2023-09-01'
           date_start: '2023-10-01'
-          description: ''
+          description: 'Conocimiento experto o fluido de los principios básicos de la gestión de datos de investigación, incluida la identificación de cada etapa del ciclo de vida de los datos y el papel del profesional de la información en la prestación de servicios de datos.'
           organization: The Research Data Management Librarian Academy (RDMLA)
           organization_url: https://rdmla.github.io/
           title: Foundations of Research Data Management
