@@ -108,7 +108,7 @@ sections:
           organization: Elsevier
           organization_url: https://www.elsevier.com/es-es
           title: Scopus Certification Program
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+          url: 
         - certificate_url: 
           date_end: '2019-08-21'
           date_start: '2019-10-01'
@@ -117,6 +117,14 @@ sections:
           organization_url: https://uniandes.edu.co/
           title: 'Teoría de grafos: análisis de datos y sus aplicaciones'
           url: ''
+        - certificate_url: 
+          date_end: '2023-07-01'
+          date_start: '2021-03-01'
+          description: Curso sobre el uso de técnicas de vigilancia tecnológica con el objetivo de la gestión eficiente de la información científica y tecnológica para toma de decisiones.
+          organization: Pontificia Universidad Javeriana
+          organization_url: https://www.javeriana.edu.co/biblos
+          title: Inteligencia competitiva para la transferencia tecnológica
+          url:
     design:
       columns: '2'
   - block: collection
