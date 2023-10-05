@@ -112,9 +112,9 @@ sections:
         - certificate_url: 
           date_end: '2019-08-21'
           date_start: '2019-10-01'
-          description: 'Curso introducción a la teoría de grafos con aplicaciones e implementación en el programa GEPHI'
+          description: 'Curso introducción a la teoría de grafos, su uso en la interpretación de situaciones, sus propiedades, resultados y aplicaciones de la teoría con aplicaciones e implementación en el programa GEPHI'
           organization: Universidad de los Andes
-          organization_url: https://www.datacamp.com
+          organization_url: https://uniandes.edu.co/
           title: 'Teoría de grafos: análisis de datos y sus aplicaciones'
           url: ''
     design:
