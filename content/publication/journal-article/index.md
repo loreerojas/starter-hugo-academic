@@ -1,8 +1,10 @@
 ---
-title: "An example journal article"
+title: "Evaluación de las capacidades académicas de las instituciones de educación superior frente a los Objetivos de Desarrollo Sostenible: una propuesta metodológica"
 authors:
 - admin
-- Robert Ford
+- Sanabria-Suárez, A.C.
+- Forero- Orozco, A. M.
+- Castillo-Ariza, Jm. 
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
@@ -19,17 +21,17 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Revista Desarrollo y Sociedad, *(86)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: La gestión ambiental, en el marco del desarrollo sostenible, es un reto que tienen todas las instituciones de educación superior (IES). Aunque la Agenda 2030 es un marco de acción global, se convierte en un reto para las IES trasladarla a su contexto local desde la investigación. Para facilitar esta labor, se plantea una propuesta metodológica con el fin de evaluar las capacidades académicas de las IES frente a los ODS. La metodología se desarrolló en cinco fases y fue aplicada en la Pontificia Universidad Javeriana (PUJ) al ODS 3, Salud y bienestar, así como a sus 13 metas. En total se encontraron 1694 trabajos de grado y tesis, principalmente, de las facultades de Ciencias Económicas y Administrativas (CEA) y Enfermería. La presente propuesta metodológica constituye una importante contribución a los ODS, además pueden replicarla otras IES que deseen adoptarla y aportar a la implementación de la Agenda 2030 desde la investigación. Clasificación JEL: I23.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
-featured: false
+- Objetivos de Desarrollo Sostenible
+- Publicación científica
+featured: true
 
 # links:
 # - name: ""
