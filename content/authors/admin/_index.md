@@ -63,6 +63,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://co.linkedin.com/in/lorena-rojas
+-   icon: Orcid
+    icon_pack: fab
+    link: https://orcid.org/0000-0003-3959-9340
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
