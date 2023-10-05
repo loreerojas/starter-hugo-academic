@@ -2,7 +2,7 @@
 title: "Evaluación de las capacidades académicas de las instituciones de educación superior frente a los Objetivos de Desarrollo Sostenible: una propuesta metodológica"
 authors:
 - admin
-- Robert Ford
+- Andrea Sanabria
 author_notes:
 date: "2020-09-01T00:00:00Z"
 doi: ""
