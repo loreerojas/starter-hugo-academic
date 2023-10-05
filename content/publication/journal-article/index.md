@@ -31,7 +31,7 @@ abstract: Nada
 tags:
 - Objetivos de Desarrollo Sostenible
 - Publicación científica
-featured: true
+featured: false
 
 # links:
 # - name: ""
