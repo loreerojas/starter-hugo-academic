@@ -1,6 +1,7 @@
 ---
 title: "Evaluación de las capacidades académicas de las instituciones de educación superior frente a los Objetivos de Desarrollo Sostenible: una propuesta metodológica"
 authors:
+- Sanabria-Suárez, A.C.
 - admin
 - Sanabria-Suárez, A.C.
 - Forero- Orozco, A. M.
